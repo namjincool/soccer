@@ -1,0 +1,16 @@
+1.  <strong></strong>진하게 강하게 
+
+2.  <h1></h1>heading: 제목
+
+3. <br>은 닫을필요 x </br>--x <p></p>
+
+4. <img width="50%" scr="food, jpeg">
+
+5. <parent> <child> </child>  </parent>
+
+6. <li> = list   ul , ol
+ 
+<head> <body> <html> <meta> <title>    <a>(ancher) = HT (link)
+
+
+Web client요청    Web server응답 서버가 응답하지 않습니다. 
